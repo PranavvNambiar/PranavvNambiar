@@ -1,5 +1,5 @@
 <p><h1 align="center"> Hi there! 👋</h1></p>
-I'm [Pranav Nambiar], Welcome to my GitHub profile! 😄
+I'm Pranav Nambiar, Welcome to my GitHub profile! 😄
 I am Bsc.IT graduate currently pursuing my Master's Degree in MCA and I am interested in Data Science and Data Analytics
 
 📫 Feel free to reach me at [pranav04092002@gmail.com](mailto:pranav04092002@gmail.com)!
@@ -34,7 +34,7 @@ I am Bsc.IT graduate currently pursuing my Master's Degree in MCA and I am inter
 
 ## Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav_Nambiar-blue)]((https://www.linkedin.com/in/pranav-nambiar-047913231/))
+[![LinkedIn]]((https://www.linkedin.com/in/pranav-nambiar-047913231/))
 
 
 Feel free to connect with me or explore my projects! 😊
