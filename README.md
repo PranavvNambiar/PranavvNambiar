@@ -10,24 +10,6 @@ I am Bsc.IT graduate currently pursuing my Master's Degree in MCA and I am inter
 - Frameworks and Libraries: [React(Javascript), Pandas,Numpy, Seaborn, Keras, Scikit-learn(Python)]
 - Databases: [MySQL, MongoDB]
 
-## Recent Projects
-
-- [Employee Invoicing Platform](https://employee-invoice.vercel.app/)
-  - As a part of our final year project, me and a colleague created
-  an employee invoicing platform which automates the creating
-  of invoices for an organization and sends the invoice to the
-  customer via mail. The software keeps a track of the stock
-  and sends an alert to the supplier when stock is low and keeps
-  track of the growth of the customers, sales, etc. and gives an
-  analytical graph to the organization.
-
-- [College Festival Webpage](https://www.festmosaic.in/)
-  - I worked with a team of 3 people to create the college's
-  annual festival's (Mosaic) website, wherein I assisted in designing the
-  frontend, creating the pages and functionality of the site.
-  The site features the different events and the pictures of the
-  events on the days of the festival.
-
 ## GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavvNambiar&show_icons=true&theme=radical)
