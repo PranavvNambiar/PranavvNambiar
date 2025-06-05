@@ -4,11 +4,19 @@ I am Bsc.IT graduate currently pursuing my Master's Degree in MCA and I am inter
 
 📫 Feel free to reach me at [pranav04092002@gmail.com](mailto:pranav04092002@gmail.com)!
 
-## Tech Stack
+### 👨‍💻 Programming Languages  
+Python, Java, R
 
-- Programming Languages: [C, C++, C#, Python, R, Java, Javascript,Typescript, Rust, SQL, Solidity]
-- Frameworks and Libraries: [React(Javascript), Pandas,Numpy, Seaborn, Keras, Scikit-learn(Python)]
-- Databases: [MySQL, MongoDB]
+### 🌐 Web Development  
+HTML5, CSS3, Bootstrap 5  
+
+### ⚙️ Frameworks & Libraries  
+- **Backend**: Spring Boot, Flask   
+- **Data Science / ML**: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Keras  
+- **Computer Vision / OCR**: OpenCV, EasyOCR, YOLOv9  
+
+### 🗄️ Databases  
+MySQL, MongoDB, SQLite  
 
 ## GitHub Stats
 
